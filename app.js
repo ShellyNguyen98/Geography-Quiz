@@ -1,6 +1,6 @@
 let questions = [
   {
-    "question": "What is the largest country in the world (by area?",
+    "question": "What is the largest country in the world (by area)?",
     "correct_answer": "Russia",
     "answers": [
       "China",
@@ -73,7 +73,7 @@ let questions = [
 
 let currentIndex = 0
 let score = 0
-let seconds = 100
+let seconds = 150
 let timer
 
 const newQuestion = () => {
