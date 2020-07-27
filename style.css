@@ -5,5 +5,10 @@
 }
 
 h1 {
+    font-family:'Oswald', sans-serif;
     color: maroon;
+}
+
+#answers {
+    font-family:'Oswald', sans-serif;
 }
